@@ -35,7 +35,7 @@ This project is a **Power BI dashboard** designed to provide in-depth revenue in
 - **DAX (Data Analysis Expressions)** – Custom calculations  
 
 ## 📸 Screenshot  
-![Dashboard Preview](screenshot.png)  
+![Dashboard Preview](https://github.com/rupadhande/Hospitality-Domain-Revenue-Insights-Using-PowerBi/blob/main/Screenshot%202025-02-21%20211539.jpg)  
 
 ## 🚀 How to Use  
 1. Clone this repository or download the `.pbix` file.  
