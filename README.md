@@ -25,8 +25,10 @@ This project is a **Power BI dashboard** designed to provide in-depth revenue in
    - **Drill-through functionality for deeper insights**  
 
 ## 📁 Files Included  
-- `Atliq_Grand_Revenue_PowerBI.pbix` – The main Power BI file containing the dashboard and data model.  
-- `README.md` – Documentation for this project.  
+- `rpc-1 hospitality domain.pbix` – The main Power BI file containing the dashboard and data model.  
+- `README.md` – Documentation for this project.
+- Screenshots of dashboard.
+- related csv and xlsx files. 
 
 ## 🛠 Tools Used  
 - **Power BI** – Data visualization & reporting  
